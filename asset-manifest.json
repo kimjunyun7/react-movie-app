@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/https//kimjunyun7.github.io/react-movie-app/static/js/main.6a5b3c9b.js",
-    "index.html": "/https//kimjunyun7.github.io/react-movie-app/index.html",
-    "main.6a5b3c9b.js.map": "/https//kimjunyun7.github.io/react-movie-app/static/js/main.6a5b3c9b.js.map"
+    "main.js": "/react-movie-app/static/js/main.6a5b3c9b.js",
+    "index.html": "/react-movie-app/index.html",
+    "main.6a5b3c9b.js.map": "/react-movie-app/static/js/main.6a5b3c9b.js.map"
   },
   "entrypoints": [
     "static/js/main.6a5b3c9b.js"
